@@ -1,0 +1,58 @@
+body{background-image:url("https://images.unsplash.com/photo-1548840938-52cced3e01a7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=742&q=80");
+  background-attachment:fixed;
+    background-size:cover;
+    font-family:Times New Roman;}
+
+.login{
+  background-color:;
+  position: relative;
+  width:70vw;
+  height: 40vh;
+  top: 150px;
+  margin: auto;}
+
+form{
+  font-size:28px;
+  padding-top:20px;}
+
+button{
+  background-image:url("https://thumbs.dreamstime.com/b/natural-wet-clay-texture-background-brown-73900424.jpg");
+  border-radius: 30px;
+  width: 200px;
+  height: 40px;
+  margin-top: 50px;
+  font-family:Times New Roman;
+  font-weight:700;
+  border-style:none;}
+
+input{padding: 25px;
+  width: 50vw;
+  color:#ffb10a;
+  font-size: 20px;
+  background-color:transparent;  
+  border-right-style:none;
+  border-top-style:none;
+  border-left-style:none;
+  border-bottom:3px groove whitesmoke;
+  font-family:Times New Roman;}
+
+::placeholder{color:lightgoldenrodyellow }
+
+.user{width:80vw;
+  height: 40vh;
+  color:whitesmoke;}
+    
+ @media (min-width:800px){
+   h3{font-size:100px;}
+   
+   label{font-size:70px;}
+
+   input{font-size:40px;
+      width:80vw;
+  margin-bottom:30px;}
+
+   button{width:400px;
+   height:80px;      
+   border-radius:60px;
+  font-size:35px;}
+ }

@@ -1,0 +1,12 @@
+body{background-image:url("https://images.unsplash.com/photo-1599992836360-f88e279f8350?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80");
+  background-attachment:fixed;
+  background-size:cover;}
+
+.success {position:relative;
+  margin:150px 80px;
+  line-height:100px;}
+
+h1 {text-align:center;
+   color:#ffb10a;
+   font-size:60px;}
+
